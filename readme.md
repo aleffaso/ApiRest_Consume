@@ -1,4 +1,4 @@
-# API REST Using Postman for test
+# Application to consume API REST
 
 The main idea is to build consume and API-Rest to get know how APIs work in general.
 
